@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"Kalau orang lain bisa kenapa harus kita?"
 Use the left arrow to go back!
